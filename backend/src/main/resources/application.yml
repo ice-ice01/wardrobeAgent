@@ -1,0 +1,117 @@
+spring:
+  application:
+    name: wardrobe-agent
+  # MySQL 保存业务实体、Spring AI 对话记忆以及当前 MVP 的衣物向量 BLOB。
+  datasource:
+    url: ${WARDROBE_DB_URL:jdbc:mysql://127.0.0.1:3306/wardrobe_agent?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true&useSSL=false}
+    username: ${WARDROBE_DB_USERNAME}
+    password: ${WARDROBE_DB_PASSWORD}
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: validate
+    properties:
+      hibernate.jdbc.time_zone: Asia/Shanghai
+  flyway.enabled: true
+  servlet.multipart:
+    max-file-size: 10MB
+    max-request-size: 12MB
+  # StreamingResponseBody 会占用异步请求；超时应覆盖最慢的一次模型调用。
+  mvc.async.request-timeout: ${AI_REQUEST_TIMEOUT:2m}
+  # Spring AI 的聊天模型和 Embedding 模型是两类独立调用，可分别配置兼容端点。
+  ai.chat.client.tool-calling.enabled: ${AI_TOOL_CALLING_ENABLED:true}
+  ai.openai:
+    api-key: ${AI_API_KEY:${OPENAI_API_KEY:missing}}
+    # Spring AI 2.x 使用 OpenAI Java SDK，base-url 必须是 API 根路径（通常含 /v1）。
+    base-url: ${AI_BASE_URL:https://api.openai.com}/v1
+    chat:
+      # 可用 AI_CHAT_BASE_URL 覆盖为供应商的完整 Chat API 根地址。
+      base-url: ${AI_CHAT_BASE_URL:${AI_BASE_URL:https://api.openai.com}/v1}
+      # Spring AI 2.0.1 默认仅等待 60 秒；推理模型或兼容网关可能在首个流式响应前超过该时限。
+      timeout: ${AI_CHAT_TIMEOUT:2m}
+      model: ${AI_MODEL:gpt-4o-mini}
+      temperature: 0.2
+    embedding:
+      api-key: ${AI_EMBEDDING_API_KEY:${AI_API_KEY:${OPENAI_API_KEY:missing}}}
+      base-url: ${AI_EMBEDDING_BASE_URL:${AI_BASE_URL:https://api.openai.com}/v1}
+      model: ${AI_EMBEDDING_MODEL:text-embedding-3-small}
+    image:
+      # 生图与聊天复用同一供应商凭证和根地址，仅模型名独立配置。
+      api-key: ${AI_API_KEY:${OPENAI_API_KEY:missing}}
+      base-url: ${AI_IMAGE_URL:https://api.openai.com}
+      model: ${AI_IMAGE_MODEL:gpt-image-1}
+      response-format: b64_json
+  # 表结构由 Flyway V3 管理，禁止 Starter 在启动时重复建表。
+  ai.chat.memory.repository.jdbc.initialize-schema: never
+server:
+  port: ${SERVER_PORT:8080}
+  error.include-message: never
+management.endpoints.web.exposure.include: health,info
+app:
+  # live 调真实模型，mock 使用确定性规则，便于离线开发和自动化测试。
+  ai.mode: ${AI_MODE:live}
+  ai.run-lease-duration: ${AI_RUN_LEASE_DURATION:PT3M}
+  ai.run-recovery-interval: ${AI_RUN_RECOVERY_INTERVAL:PT5S}
+  # MessageWindowChatMemory 的消息条数上限，不是“对话轮数”。
+  ai.memory.max-messages: ${AI_MEMORY_MAX_MESSAGES:20}
+  # 大衣橱才启用语义召回；相关性、多样性和最近展示惩罚共同决定 MMR 排序。
+  ai.retrieval:
+    enabled: ${AI_SEMANTIC_RETRIEVAL_ENABLED:true}
+    wardrobe-threshold: ${AI_RETRIEVAL_WARDROBE_THRESHOLD:30}
+    initial-recall: ${AI_RETRIEVAL_INITIAL_RECALL:60}
+    candidates-per-slot: ${AI_RETRIEVAL_CANDIDATES_PER_SLOT:4}
+    relevance-weight: ${AI_RETRIEVAL_RELEVANCE_WEIGHT:0.7}
+    diversity-weight: ${AI_RETRIEVAL_DIVERSITY_WEIGHT:0.3}
+    recent-item-penalty: ${AI_RETRIEVAL_RECENT_ITEM_PENALTY:0.25}
+    explore-penalty-multiplier: ${AI_RETRIEVAL_EXPLORE_PENALTY_MULTIPLIER:1.5}
+    model: ${AI_EMBEDDING_MODEL:text-embedding-3-small}
+    index-version: ${AI_EMBEDDING_INDEX_VERSION:wardrobe-text-v1}
+    fallback-enabled: ${AI_RETRIEVAL_FALLBACK_ENABLED:true}
+    fallback-candidates-per-slot: ${AI_RETRIEVAL_FALLBACK_PER_SLOT:12}
+  # 发送给聊天模型前先限制图片数量、尺寸和 JPEG 质量，控制请求体与 Token 成本。
+  ai.multimodal:
+    enabled: ${AI_MULTIMODAL_ENABLED:true}
+    max-images: ${AI_MULTIMODAL_MAX_IMAGES:30}
+    max-width: 512
+    max-height: 640
+    jpeg-quality: 0.82
+  jwt:
+    secret: ${WARDROBE_JWT_SECRET:wardrobe-agent-local-development-secret-change-before-deploy-2026}
+    ttl: PT8H
+  cors.allowed-origins: ${WARDROBE_ALLOWED_ORIGINS:http://localhost:5173,http://127.0.0.1:5173}
+  media:
+    root: ${WARDROBE_MEDIA_ROOT:./data/media}
+    max-width: 4096
+    max-height: 4096
+    max-pixels: 16000000
+  # 当前仅控制 Mock 试穿状态机的模拟延迟，不代表真实 AI Provider 耗时。
+  tryon:
+    # 本地直接启动默认调用 GPT Image 双图编辑；测试和 Compose 会显式改为 MOCK。
+    provider: ${TRYON_PROVIDER:GPT_IMAGE_EDIT}
+    real-enabled: ${TRYON_REAL_ENABLED:true}
+    processing-delay: PT3S
+    completion-delay: PT8S
+    poll-interval: ${TRYON_POLL_INTERVAL:PT2S}
+    stage-timeout: ${TRYON_STAGE_TIMEOUT:PT90S}
+    http-connect-timeout: ${TRYON_HTTP_CONNECT_TIMEOUT:PT10S}
+    http-read-timeout: ${TRYON_HTTP_READ_TIMEOUT:PT2M}
+    lease-duration: ${TRYON_LEASE_DURATION:PT4M}
+    recovery-interval: ${TRYON_RECOVERY_INTERVAL:PT5S}
+    max-real-calls-per-user-day: ${TRYON_DAILY_QUOTA:300}
+    max-real-concurrency-per-user: ${TRYON_USER_CONCURRENCY:1}
+    max-real-concurrency-global: ${TRYON_GLOBAL_CONCURRENCY:3}
+    spring-ai-fallback-enabled: ${TRYON_SPRING_AI_FALLBACK_ENABLED:false}
+    spring-ai-image:
+      model: ${AI_IMAGE_MODEL:gpt-image-1}
+    gpt-image-edit:
+      base-url: ${AI_IMAGE_URL:${AI_BASE_URL:https://api.openai.com}}
+      api-key: ${AI_API_KEY:${OPENAI_API_KEY:missing}}
+      model: ${AI_IMAGE_MODEL:gpt-image-1}
+      size: ${AI_IMAGE_SIZE:1024x1024}
+      quality: ${AI_IMAGE_QUALITY:low}
+    fashn:
+      base-url: ${FASHN_BASE_URL:https://api.fashn.ai}
+      api-key: ${FASHN_API_KEY:}
+logging:
+  pattern.level: "%5p requestId=%X{requestId:-}"
+  level.org.springframework.ai: INFO

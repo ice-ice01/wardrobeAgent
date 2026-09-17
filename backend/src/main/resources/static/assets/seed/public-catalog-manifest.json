@@ -1,0 +1,2602 @@
+[
+  {
+    "index": 1,
+    "sourceItemId": "1855",
+    "name": "Inkfruit Mens Chain Reaction T-shirt",
+    "category": "上装",
+    "slot": "INNER_TOP",
+    "color": "Grey",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-001.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 2,
+    "sourceItemId": "30805",
+    "name": "Fabindia Men Striped Green Shirt",
+    "category": "上装",
+    "slot": "INNER_TOP",
+    "color": "Green",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "约会",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-002.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 3,
+    "sourceItemId": "12369",
+    "name": "Reid & Taylor Men Check Purple Shirts",
+    "category": "上装",
+    "slot": "INNER_TOP",
+    "color": "Purple",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "通勤",
+      "面试"
+    ],
+    "styleTags": [
+      "正式",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-003.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 4,
+    "sourceItemId": "42419",
+    "name": "Gini and Jony Girls Knit White Top",
+    "category": "上装",
+    "slot": "INNER_TOP",
+    "color": "White",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-004.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 5,
+    "sourceItemId": "7990",
+    "name": "Fila Men's Round Neck Navy Blue T-shirt",
+    "category": "上装",
+    "slot": "INNER_TOP",
+    "color": "Navy Blue",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "运动",
+      "休闲"
+    ],
+    "styleTags": [
+      "运动",
+      "休闲"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-005.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 6,
+    "sourceItemId": "37812",
+    "name": "John Players Men Navy Blue Shirt",
+    "category": "上装",
+    "slot": "INNER_TOP",
+    "color": "Navy Blue",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "通勤",
+      "面试"
+    ],
+    "styleTags": [
+      "正式",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-006.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 7,
+    "sourceItemId": "4729",
+    "name": "Disney Kids Boy's Crew Sea Life Sialing Green Teen Kidswear",
+    "category": "上装",
+    "slot": "INNER_TOP",
+    "color": "Green",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-007.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 8,
+    "sourceItemId": "56825",
+    "name": "John Players Men Brown Shirt",
+    "category": "上装",
+    "slot": "INNER_TOP",
+    "color": "Brown",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-008.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 9,
+    "sourceItemId": "20099",
+    "name": "Diva Women Embroided Green Kurta",
+    "category": "上装",
+    "slot": "INNER_TOP",
+    "color": "Green",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "约会",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-009.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 10,
+    "sourceItemId": "3954",
+    "name": "Jealous 21 Women's Pink T-shirt",
+    "category": "上装",
+    "slot": "INNER_TOP",
+    "color": "Pink",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-010.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 11,
+    "sourceItemId": "28690",
+    "name": "W Women Printed Beige Kurta",
+    "category": "上装",
+    "slot": "INNER_TOP",
+    "color": "Beige",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "约会",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-011.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 12,
+    "sourceItemId": "9452",
+    "name": "John Miller Men Stripes White Red Shirts",
+    "category": "上装",
+    "slot": "INNER_TOP",
+    "color": "Red",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "通勤",
+      "面试"
+    ],
+    "styleTags": [
+      "正式",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-012.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 13,
+    "sourceItemId": "45856",
+    "name": "Vishudh Women Brown Kurta",
+    "category": "上装",
+    "slot": "INNER_TOP",
+    "color": "Brown",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "约会",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-013.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 14,
+    "sourceItemId": "5891",
+    "name": "Puma Men's Stripe Polo Black T-shirt",
+    "category": "上装",
+    "slot": "INNER_TOP",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-014.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 15,
+    "sourceItemId": "38630",
+    "name": "Nike Women Purple Polo T-shirt",
+    "category": "上装",
+    "slot": "INNER_TOP",
+    "color": "Purple",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-015.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 16,
+    "sourceItemId": "4943",
+    "name": "Gini and Jony Boy's Kaleb White Brown Kidswear",
+    "category": "上装",
+    "slot": "INNER_TOP",
+    "color": "White",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-016.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 17,
+    "sourceItemId": "10866",
+    "name": "Wrangler Men Motor Rider Red T-Shirts",
+    "category": "上装",
+    "slot": "INNER_TOP",
+    "color": "Red",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-017.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 18,
+    "sourceItemId": "15528",
+    "name": "Puma Men Scribble Black Tshirts",
+    "category": "上装",
+    "slot": "INNER_TOP",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-018.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 19,
+    "sourceItemId": "9660",
+    "name": "Indigo Nation Men Reversible Bling Pink Shirts",
+    "category": "上装",
+    "slot": "INNER_TOP",
+    "color": "Pink",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-019.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 20,
+    "sourceItemId": "2288",
+    "name": "Nike Women Black T-shirt",
+    "category": "上装",
+    "slot": "INNER_TOP",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "运动",
+      "休闲"
+    ],
+    "styleTags": [
+      "运动",
+      "休闲"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-020.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 21,
+    "sourceItemId": "8580",
+    "name": "Scullers Men  Grey Waistcoat",
+    "category": "外套",
+    "slot": "OUTER_TOP",
+    "color": "Grey",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 4,
+    "breathabilityLevel": 2,
+    "localPath": "/assets/seed/catalog-021.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 22,
+    "sourceItemId": "23876",
+    "name": "ADIDAS Men Blue Sweatshirt",
+    "category": "外套",
+    "slot": "OUTER_TOP",
+    "color": "Blue",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 4,
+    "breathabilityLevel": 2,
+    "localPath": "/assets/seed/catalog-022.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 23,
+    "sourceItemId": "52029",
+    "name": "Just Natural Unisex Charcoal Rain Jacket",
+    "category": "外套",
+    "slot": "OUTER_TOP",
+    "color": "Coffee Brown",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 4,
+    "breathabilityLevel": 2,
+    "localPath": "/assets/seed/catalog-023.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 24,
+    "sourceItemId": "19547",
+    "name": "United Colors of Benetton Men Solid Blue Sweatshirt",
+    "category": "外套",
+    "slot": "OUTER_TOP",
+    "color": "Blue",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 4,
+    "breathabilityLevel": 2,
+    "localPath": "/assets/seed/catalog-024.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 25,
+    "sourceItemId": "51455",
+    "name": "Tonga Women Pink Printed Shrug",
+    "category": "外套",
+    "slot": "OUTER_TOP",
+    "color": "Pink",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 4,
+    "breathabilityLevel": 2,
+    "localPath": "/assets/seed/catalog-025.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 26,
+    "sourceItemId": "11385",
+    "name": "United Colors Of Benetton Women Light Winter Black Sweatshirts",
+    "category": "外套",
+    "slot": "OUTER_TOP",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 4,
+    "breathabilityLevel": 2,
+    "localPath": "/assets/seed/catalog-026.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 27,
+    "sourceItemId": "46411",
+    "name": "ADIDAS Men Black Sweatshirt",
+    "category": "外套",
+    "slot": "OUTER_TOP",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 4,
+    "breathabilityLevel": 2,
+    "localPath": "/assets/seed/catalog-027.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 28,
+    "sourceItemId": "21725",
+    "name": "ADIDAS Men Navy Blue Sweatshirt",
+    "category": "外套",
+    "slot": "OUTER_TOP",
+    "color": "Navy Blue",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 4,
+    "breathabilityLevel": 2,
+    "localPath": "/assets/seed/catalog-028.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 29,
+    "sourceItemId": "6887",
+    "name": "Forever New Women Indigo Wash Blue Jacket",
+    "category": "外套",
+    "slot": "OUTER_TOP",
+    "color": "Blue",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 4,
+    "breathabilityLevel": 2,
+    "localPath": "/assets/seed/catalog-029.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 30,
+    "sourceItemId": "19744",
+    "name": "ADIDAS Originals Men Solid Green Jacket",
+    "category": "外套",
+    "slot": "OUTER_TOP",
+    "color": "Green",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 4,
+    "breathabilityLevel": 2,
+    "localPath": "/assets/seed/catalog-030.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 31,
+    "sourceItemId": "11529",
+    "name": "United Colors Of Benetton Men Heavy Winter Grey Sweaters",
+    "category": "外套",
+    "slot": "OUTER_TOP",
+    "color": "Grey",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 4,
+    "breathabilityLevel": 2,
+    "localPath": "/assets/seed/catalog-031.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 32,
+    "sourceItemId": "13241",
+    "name": "Palm Tree Kids Boys Solid White Jackets",
+    "category": "外套",
+    "slot": "OUTER_TOP",
+    "color": "White",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 4,
+    "breathabilityLevel": 2,
+    "localPath": "/assets/seed/catalog-032.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 33,
+    "sourceItemId": "19549",
+    "name": "United Colors of Benetton Men Solid Grey Sweatshirt",
+    "category": "外套",
+    "slot": "OUTER_TOP",
+    "color": "Grey",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 4,
+    "breathabilityLevel": 2,
+    "localPath": "/assets/seed/catalog-033.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 34,
+    "sourceItemId": "52027",
+    "name": "Just Natural Unisex Navy Blue Rain Jacket",
+    "category": "外套",
+    "slot": "OUTER_TOP",
+    "color": "Navy Blue",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 4,
+    "breathabilityLevel": 2,
+    "localPath": "/assets/seed/catalog-034.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 35,
+    "sourceItemId": "11172",
+    "name": "Scullers Men Stripes Red Sweaters",
+    "category": "外套",
+    "slot": "OUTER_TOP",
+    "color": "Red",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 4,
+    "breathabilityLevel": 2,
+    "localPath": "/assets/seed/catalog-035.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 36,
+    "sourceItemId": "21379",
+    "name": "Manchester United Men Solid Black Track Pants",
+    "category": "下装",
+    "slot": "BOTTOM",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-036.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 37,
+    "sourceItemId": "18005",
+    "name": "Puma Men Long Logo Black Bermuda",
+    "category": "下装",
+    "slot": "BOTTOM",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "运动",
+      "休闲"
+    ],
+    "styleTags": [
+      "运动",
+      "休闲"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-037.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 38,
+    "sourceItemId": "54924",
+    "name": "Do U Speak Green Men Blue Shorts",
+    "category": "下装",
+    "slot": "BOTTOM",
+    "color": "Blue",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-038.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 39,
+    "sourceItemId": "28456",
+    "name": "Urban Yoga Women Blue Skirt With Leggings",
+    "category": "下装",
+    "slot": "BOTTOM",
+    "color": "Blue",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "运动",
+      "休闲"
+    ],
+    "styleTags": [
+      "运动",
+      "休闲"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-039.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 40,
+    "sourceItemId": "26994",
+    "name": "Jealous 21 Women Black Jeans",
+    "category": "下装",
+    "slot": "BOTTOM",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-040.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 41,
+    "sourceItemId": "10257",
+    "name": "John Miller Men Solid Type Black Trousers",
+    "category": "下装",
+    "slot": "BOTTOM",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "通勤",
+      "面试"
+    ],
+    "styleTags": [
+      "正式",
+      "简约"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-041.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 42,
+    "sourceItemId": "32563",
+    "name": "ONLY Women directoire blue Trousers",
+    "category": "下装",
+    "slot": "BOTTOM",
+    "color": "Blue",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-042.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 43,
+    "sourceItemId": "15341",
+    "name": "Nike Women Solid Pink Shorts",
+    "category": "下装",
+    "slot": "BOTTOM",
+    "color": "Pink",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "运动",
+      "休闲"
+    ],
+    "styleTags": [
+      "运动",
+      "休闲"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-043.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 44,
+    "sourceItemId": "7193",
+    "name": "Jealous 21 Women Black Jegging",
+    "category": "下装",
+    "slot": "BOTTOM",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-044.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 45,
+    "sourceItemId": "17624",
+    "name": "ADIDAS Men Solid Navy Blue Track Pant",
+    "category": "下装",
+    "slot": "BOTTOM",
+    "color": "Navy Blue",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "运动",
+      "休闲"
+    ],
+    "styleTags": [
+      "运动",
+      "休闲"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-045.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 46,
+    "sourceItemId": "47154",
+    "name": "Gini and Jony Girls Black Capris",
+    "category": "下装",
+    "slot": "BOTTOM",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-046.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 47,
+    "sourceItemId": "13284",
+    "name": "Gini and Jony Kids Boys Solid Black Shorts",
+    "category": "下装",
+    "slot": "BOTTOM",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-047.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 48,
+    "sourceItemId": "40371",
+    "name": "Tokyo Talkies Women Navy Slim Fit Jeans",
+    "category": "下装",
+    "slot": "BOTTOM",
+    "color": "Navy Blue",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-048.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 49,
+    "sourceItemId": "34204",
+    "name": "Proline Men Navy Track Pants",
+    "category": "下装",
+    "slot": "BOTTOM",
+    "color": "Navy Blue",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-049.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 50,
+    "sourceItemId": "16508",
+    "name": "Locomotive Men Washed Blue Jeans",
+    "category": "下装",
+    "slot": "BOTTOM",
+    "color": "Blue",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-050.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 51,
+    "sourceItemId": "57138",
+    "name": "Elle Women Brown Trousers",
+    "category": "下装",
+    "slot": "BOTTOM",
+    "color": "Brown",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-051.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 52,
+    "sourceItemId": "26993",
+    "name": "Jealous 21 Women Washed Blue Jeans",
+    "category": "下装",
+    "slot": "BOTTOM",
+    "color": "Blue",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-052.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 53,
+    "sourceItemId": "13248",
+    "name": "Palm Tree Kids Boy Solid Brown Trousers",
+    "category": "下装",
+    "slot": "BOTTOM",
+    "color": "Brown",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-053.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 54,
+    "sourceItemId": "51499",
+    "name": "Denizen Women Blue Jeans",
+    "category": "下装",
+    "slot": "BOTTOM",
+    "color": "Blue",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-054.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 55,
+    "sourceItemId": "7709",
+    "name": "Jealous 21 Women's Aaren Black Jegging",
+    "category": "下装",
+    "slot": "BOTTOM",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-055.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 56,
+    "sourceItemId": "39716",
+    "name": "Arrow Woman Women Blue Dress",
+    "category": "连衣裙",
+    "slot": "DRESS",
+    "color": "Blue",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-056.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 57,
+    "sourceItemId": "4988",
+    "name": "Gini and Jony Girl's Vanya White Polka Dot Kidswear",
+    "category": "连衣裙",
+    "slot": "DRESS",
+    "color": "White",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-057.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 58,
+    "sourceItemId": "31127",
+    "name": "Gini and Jony Girls Black Dress",
+    "category": "连衣裙",
+    "slot": "DRESS",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-058.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 59,
+    "sourceItemId": "51036",
+    "name": "Enamor Women Lavender Nightdress",
+    "category": "连衣裙",
+    "slot": "DRESS",
+    "color": "Lime Green",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-059.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 60,
+    "sourceItemId": "6873",
+    "name": "Forever New Women's Top Black Dress",
+    "category": "连衣裙",
+    "slot": "DRESS",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-060.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 61,
+    "sourceItemId": "46271",
+    "name": "109F Blue A-Line Dress",
+    "category": "连衣裙",
+    "slot": "DRESS",
+    "color": "Blue",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-061.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 62,
+    "sourceItemId": "59897",
+    "name": "Femella Women Yellow Dress",
+    "category": "连衣裙",
+    "slot": "DRESS",
+    "color": "Yellow",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-062.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 63,
+    "sourceItemId": "52443",
+    "name": "Red Rose White & Green Nightdress",
+    "category": "连衣裙",
+    "slot": "DRESS",
+    "color": "Green",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "冬"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-063.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 64,
+    "sourceItemId": "36750",
+    "name": "Little Miss Girls Chatterbox Navy Blue Dress",
+    "category": "连衣裙",
+    "slot": "DRESS",
+    "color": "Navy Blue",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-064.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 65,
+    "sourceItemId": "46285",
+    "name": "109F Women Multi Coloured Dress",
+    "category": "连衣裙",
+    "slot": "DRESS",
+    "color": "Multi",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-065.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 66,
+    "sourceItemId": "6874",
+    "name": "Forever New Women Pink Sleeveless Dress",
+    "category": "连衣裙",
+    "slot": "DRESS",
+    "color": "Pink",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-066.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 67,
+    "sourceItemId": "31129",
+    "name": "Giny and Jony Girls Printed White & Pink Dress",
+    "category": "连衣裙",
+    "slot": "DRESS",
+    "color": "Magenta",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-067.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 68,
+    "sourceItemId": "43509",
+    "name": "French Connection Women Grey Melange Dress",
+    "category": "连衣裙",
+    "slot": "DRESS",
+    "color": "Grey Melange",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-068.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 69,
+    "sourceItemId": "25971",
+    "name": "Femella Women Black Dress",
+    "category": "连衣裙",
+    "slot": "DRESS",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "经典"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-069.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 70,
+    "sourceItemId": "39720",
+    "name": "Arrow Woman Olive Jumpsuit",
+    "category": "连衣裙",
+    "slot": "DRESS",
+    "color": "Olive",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 2,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-070.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 71,
+    "sourceItemId": "9204",
+    "name": "Puma Men Future Cat Remix SF Black Casual Shoes",
+    "category": "鞋",
+    "slot": "SHOES",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-071.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 72,
+    "sourceItemId": "18653",
+    "name": "Fila Men Cush Flex Black Slippers",
+    "category": "鞋",
+    "slot": "SHOES",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-072.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 73,
+    "sourceItemId": "46885",
+    "name": "Ben 10 Boys Navy Blue Slippers",
+    "category": "鞋",
+    "slot": "SHOES",
+    "color": "Navy Blue",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-073.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 74,
+    "sourceItemId": "12967",
+    "name": "ADIDAS Men Spry M Black Sandals",
+    "category": "鞋",
+    "slot": "SHOES",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-074.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 75,
+    "sourceItemId": "59051",
+    "name": "Carlton London Women Black & Gold Toned Flats",
+    "category": "鞋",
+    "slot": "SHOES",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "冬"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-075.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 76,
+    "sourceItemId": "2886",
+    "name": "Catwalk Women Leather Brown Flats",
+    "category": "鞋",
+    "slot": "SHOES",
+    "color": "Brown",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "冬"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-076.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 77,
+    "sourceItemId": "3168",
+    "name": "Nike Men's Incinerate MSL White Blue Shoe",
+    "category": "鞋",
+    "slot": "SHOES",
+    "color": "White",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "运动",
+      "休闲"
+    ],
+    "styleTags": [
+      "运动",
+      "休闲"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-077.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 78,
+    "sourceItemId": "10268",
+    "name": "Clarks Men Hang Work Leather Black Formal Shoes",
+    "category": "鞋",
+    "slot": "SHOES",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "通勤",
+      "面试"
+    ],
+    "styleTags": [
+      "正式",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-078.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 79,
+    "sourceItemId": "59435",
+    "name": "Arrow Men Black Formal Shoes",
+    "category": "鞋",
+    "slot": "SHOES",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "通勤",
+      "面试"
+    ],
+    "styleTags": [
+      "正式",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-079.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 80,
+    "sourceItemId": "22198",
+    "name": "Timberland Men Black Casual Shoes",
+    "category": "鞋",
+    "slot": "SHOES",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-080.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 81,
+    "sourceItemId": "29570",
+    "name": "Vans Men Classic Slip-On Purple & Black Shoes",
+    "category": "鞋",
+    "slot": "SHOES",
+    "color": "Purple",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-081.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 82,
+    "sourceItemId": "6628",
+    "name": "ADIDAS Men's Lowell White Silver Shoe",
+    "category": "鞋",
+    "slot": "SHOES",
+    "color": "White",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "运动",
+      "休闲"
+    ],
+    "styleTags": [
+      "运动",
+      "休闲"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-082.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 83,
+    "sourceItemId": "26538",
+    "name": "ID Men Red Shoes",
+    "category": "鞋",
+    "slot": "SHOES",
+    "color": "Red",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-083.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 84,
+    "sourceItemId": "54118",
+    "name": "Rocia Women Black Flats",
+    "category": "鞋",
+    "slot": "SHOES",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "冬"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-084.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 85,
+    "sourceItemId": "2872",
+    "name": "Catwalk Women Leather Flats",
+    "category": "鞋",
+    "slot": "SHOES",
+    "color": "Brown",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "冬"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-085.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 86,
+    "sourceItemId": "8574",
+    "name": "Crocs Dora Boots Pink Sandals",
+    "category": "鞋",
+    "slot": "SHOES",
+    "color": "Pink",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-086.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 87,
+    "sourceItemId": "19123",
+    "name": "Lotto Men XL Water Man Silver Slippers",
+    "category": "鞋",
+    "slot": "SHOES",
+    "color": "Silver",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-087.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 88,
+    "sourceItemId": "43369",
+    "name": "Reebok Men Black Possession Flip Flops",
+    "category": "鞋",
+    "slot": "SHOES",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-088.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 89,
+    "sourceItemId": "33822",
+    "name": "Puma Men Axis White & Grey Sports Shoes",
+    "category": "鞋",
+    "slot": "SHOES",
+    "color": "White",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "运动",
+      "休闲"
+    ],
+    "styleTags": [
+      "运动",
+      "休闲"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-089.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 90,
+    "sourceItemId": "19311",
+    "name": "Nike Men Air Rift MTR White Casual Shoe",
+    "category": "鞋",
+    "slot": "SHOES",
+    "color": "White",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "秋"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 3,
+    "localPath": "/assets/seed/catalog-090.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 91,
+    "sourceItemId": "29114",
+    "name": "Puma Men Pack of 3 Socks",
+    "category": "配饰",
+    "slot": "ACCESSORY",
+    "color": "Navy Blue",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-091.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 92,
+    "sourceItemId": "30039",
+    "name": "Skagen Men Black Watch",
+    "category": "配饰",
+    "slot": "ACCESSORY",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "冬"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-092.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 93,
+    "sourceItemId": "48123",
+    "name": "Fossil Women Black Huarache Weave Belt",
+    "category": "配饰",
+    "slot": "ACCESSORY",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-093.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 94,
+    "sourceItemId": "47957",
+    "name": "Murcia Women Blue Handbag",
+    "category": "配饰",
+    "slot": "ACCESSORY",
+    "color": "Blue",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-094.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 95,
+    "sourceItemId": "29928",
+    "name": "Police Men Black Dial Watch PL12889JVSB",
+    "category": "配饰",
+    "slot": "ACCESSORY",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "冬"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-095.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 96,
+    "sourceItemId": "47359",
+    "name": "Baggit Women Brown Handbag",
+    "category": "配饰",
+    "slot": "ACCESSORY",
+    "color": "Brown",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-096.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 97,
+    "sourceItemId": "17429",
+    "name": "CASIO G-Shock Men Black Digital Watch G-7710-1DR G223",
+    "category": "配饰",
+    "slot": "ACCESSORY",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "冬"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-097.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 98,
+    "sourceItemId": "6842",
+    "name": "Timberland Unisex Rubber Sole Brush Shoe Accessories",
+    "category": "配饰",
+    "slot": "ACCESSORY",
+    "color": "Black",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "夏"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-098.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 99,
+    "sourceItemId": "48311",
+    "name": "Pitaraa Women Bronze Beaded Bracelet",
+    "category": "配饰",
+    "slot": "ACCESSORY",
+    "color": "Bronze",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "冬"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-099.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  },
+  {
+    "index": 100,
+    "sourceItemId": "21977",
+    "name": "Murcia Women Casual Brown Handbag",
+    "category": "配饰",
+    "slot": "ACCESSORY",
+    "color": "Brown",
+    "material": "UNKNOWN",
+    "seasonTags": [
+      "冬"
+    ],
+    "sceneTags": [
+      "休闲",
+      "旅行"
+    ],
+    "styleTags": [
+      "休闲",
+      "简约"
+    ],
+    "warmthLevel": 1,
+    "breathabilityLevel": 4,
+    "localPath": "/assets/seed/catalog-100.jpg",
+    "sourceDataset": "PestoRosso/lamoda-fashion-product-images",
+    "sourcePage": "https://huggingface.co/datasets/PestoRosso/lamoda-fashion-product-images",
+    "license": "MIT"
+  }
+]

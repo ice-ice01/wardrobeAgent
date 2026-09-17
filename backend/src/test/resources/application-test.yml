@@ -1,0 +1,29 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:wardrobe;MODE=MySQL;DATABASE_TO_LOWER=TRUE;DEFAULT_NULL_ORDERING=HIGH
+    username: sa
+    password:
+  jpa.hibernate.ddl-auto: create-drop
+  flyway.enabled: false
+  ai.openai:
+    api-key: test-key
+    base-url: http://localhost
+    chat.model: test-model
+  ai.chat.memory.repository.jdbc.initialize-schema: embedded
+app:
+  ai.mode: mock
+  ai.memory.max-messages: 4
+  ai.multimodal:
+    enabled: true
+    max-images: 30
+    max-width: 512
+    max-height: 640
+    jpeg-quality: 0.82
+  media.root: ./target/test-media
+  tryon:
+    provider: MOCK
+    real-enabled: false
+    processing-delay: PT0.05S
+    completion-delay: PT0.1S
+    poll-interval: PT0.02S
+    stage-timeout: PT2S
