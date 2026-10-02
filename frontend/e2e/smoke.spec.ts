@@ -28,9 +28,15 @@ test('confirmed outfit defaults to supported items and labels Spring AI fallback
   let taskRequested = false
   await page.route('**/api/**', async (route) => {
     const request = route.request(); const url = new URL(request.url()); const method = request.method()
+    if (url.pathname === '/api/agent/conversations' && method === 'GET') {
+      return route.fulfill({ json: [{ id: conversation.id, title: conversation.title, lastMessageAt: conversation.lastMessageAt }] })
+    }
+    if (url.pathname === `/api/agent/conversations/${conversation.id}` && method === 'GET') return route.fulfill({ json: conversation })
+    if (url.pathname === `/api/agent/conversations/${conversation.id}/runs` && method === 'GET') return route.fulfill({ json: [] })
     if (url.pathname === '/api/agent/conversations' && method === 'POST') return route.fulfill({ json: conversation })
     if (url.pathname === '/api/wardrobe/items') return route.fulfill({ json: [] })
     if (url.pathname === '/api/user-models') return route.fulfill({ json: [{ id: 'model-1', name: '默认形象', type: 'PRESET', imageUrl: '/assets/model.jpg', defaultModel: true, authorized: true }] })
+    if (url.pathname === '/api/tryon/tasks' && method === 'GET') return route.fulfill({ json: [] })
     if (url.pathname === '/api/tryon/capabilities') return route.fulfill({ json: {
       providerCode: 'FASHN_V1_6', displayName: 'FASHN 真实试穿', mode: 'REAL', enabled: true, coverage: 'MULTI_STAGE',
       supportedItems: outfit.selectedItems.slice(0, 2).map((item) => ({ ...item, supported: true })),
