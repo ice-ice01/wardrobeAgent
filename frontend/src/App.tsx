@@ -329,10 +329,10 @@ function ModelsPage() {
   const load = () => api.models().then(setModels).catch(capture); useEffect(() => { void load() }, [])
   async function upload(file?: File) { if (!file) return; setUploading(true); try { const media = await api.upload(file, 'USER_MODEL'); await api.createModel({ name: file.name.replace(/\.[^.]+$/, ''), fileId: media.id, authorized: true }); await load() } catch (e) { capture(e) } finally { setUploading(false) } }
   async function makeDefault(id: string) { try { await api.defaultModel(id); await load() } catch (e) { capture(e) } }
-  async function remove(id: string) { try { await api.deleteModel(id); await load() } catch (e) { capture(e) } }
+  async function remove(id: string) { if (!confirm('确定删除这个形象吗？如果它是默认形象，将自动切换到下一个形象。')) return; try { await api.deleteModel(id); await load() } catch (e) { capture(e) } }
   return <div className="page"><PageHeader eyebrow="MY MODELS" title="我的形象" actions={<label className="primary file-button">{uploading ? <LoaderCircle className="spin" /> : <Upload size={18} />}上传形象<input type="file" accept="image/jpeg,image/png,image/webp" onChange={(e) => void upload(e.target.files?.[0])} /></label>} />
     <p className="page-lead">选择默认形象，用于虚拟试穿效果的生成。上传本人照片即表示你确认拥有该照片的使用权。</p>{error && <p className="inline-error">{error}</p>}
-    <div className="models-grid">{models.map((model) => <article key={model.id} className={model.defaultModel ? 'model-card default' : 'model-card'}><ImageView src={model.imageUrl} alt={model.name} /><div><h3>{model.name}</h3><span>{model.type === 'PRESET' ? '预设形象' : '我的上传'}</span></div>{model.defaultModel ? <b><Check size={15} />默认</b> : <button className="secondary" onClick={() => void makeDefault(model.id)}>设为默认</button>}{model.type === 'UPLOAD' && <button className="icon-button danger model-delete" onClick={() => void remove(model.id)} title="删除"><Trash2 size={17} /></button>}</article>)}</div>
+    <div className="models-grid">{models.map((model) => <article key={model.id} className={model.defaultModel ? 'model-card default' : 'model-card'}><ImageView src={model.imageUrl} alt={model.name} /><div><h3>{model.name}</h3><span>{model.type === 'PRESET' ? '预设形象' : '我的上传'}</span></div>{model.defaultModel ? <b><Check size={15} />默认</b> : <button className="secondary" onClick={() => void makeDefault(model.id)}>设为默认</button>}{model.type === 'UPLOAD' && <button className="icon-button danger model-delete" onClick={() => void remove(model.id)} title="删除形象"><Trash2 size={17} /></button>}</article>)}</div>
   </div>
 }
 

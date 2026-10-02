@@ -40,7 +40,13 @@ public class UserModelService {
     public void delete(String userId, String id) {
         UserModel model = require(userId, id);
         if ("PRESET".equals(model.getType())) throw new BusinessException(HttpStatus.CONFLICT, "PRESET_MODEL", "预设模特不能删除");
+        boolean deletingDefault = model.isDefaultModel();
         model.markDeleted();
+        if (deletingDefault) {
+            List<UserModel> remaining = models.findAllByUserIdAndDeletedFalseOrderByCreatedAtAsc(userId);
+            remaining.forEach(candidate -> candidate.setDefaultModel(false));
+            remaining.stream().findFirst().ifPresent(candidate -> candidate.setDefaultModel(true));
+        }
     }
 
     public UserModel require(String userId, String id) {
